@@ -1,0 +1,13 @@
+E:\BridgeLbz_Projects\Invoice_Generator\Invoice_Generator\bin\Debug\netcoreapp3.1\Invoice_Generator.exe
+E:\BridgeLbz_Projects\Invoice_Generator\Invoice_Generator\bin\Debug\netcoreapp3.1\Invoice_Generator.deps.json
+E:\BridgeLbz_Projects\Invoice_Generator\Invoice_Generator\bin\Debug\netcoreapp3.1\Invoice_Generator.runtimeconfig.json
+E:\BridgeLbz_Projects\Invoice_Generator\Invoice_Generator\bin\Debug\netcoreapp3.1\Invoice_Generator.runtimeconfig.dev.json
+E:\BridgeLbz_Projects\Invoice_Generator\Invoice_Generator\bin\Debug\netcoreapp3.1\Invoice_Generator.dll
+E:\BridgeLbz_Projects\Invoice_Generator\Invoice_Generator\bin\Debug\netcoreapp3.1\Invoice_Generator.pdb
+E:\BridgeLbz_Projects\Invoice_Generator\Invoice_Generator\obj\Debug\netcoreapp3.1\Invoice_Generator.csprojAssemblyReference.cache
+E:\BridgeLbz_Projects\Invoice_Generator\Invoice_Generator\obj\Debug\netcoreapp3.1\Invoice_Generator.csproj.CoreCompileInputs.cache
+E:\BridgeLbz_Projects\Invoice_Generator\Invoice_Generator\obj\Debug\netcoreapp3.1\Invoice_Generator.AssemblyInfoInputs.cache
+E:\BridgeLbz_Projects\Invoice_Generator\Invoice_Generator\obj\Debug\netcoreapp3.1\Invoice_Generator.AssemblyInfo.cs
+E:\BridgeLbz_Projects\Invoice_Generator\Invoice_Generator\obj\Debug\netcoreapp3.1\Invoice_Generator.dll
+E:\BridgeLbz_Projects\Invoice_Generator\Invoice_Generator\obj\Debug\netcoreapp3.1\Invoice_Generator.pdb
+E:\BridgeLbz_Projects\Invoice_Generator\Invoice_Generator\obj\Debug\netcoreapp3.1\Invoice_Generator.genruntimeconfig.cache
