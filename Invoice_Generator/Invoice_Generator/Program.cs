@@ -23,7 +23,7 @@ namespace Invoice_Generator
             };
             Custmor New_Custmor1 = new Custmor("Ajskfhs123");
             rideRepository.AddRide(rides1, New_Custmor1);
-            Cab_InvoiceGenerator.GetInvoiceSummary(New_Custmor);
+            //Cab_InvoiceGenerator.GetInvoiceSummary(New_Custmor);
         }
     }
 }

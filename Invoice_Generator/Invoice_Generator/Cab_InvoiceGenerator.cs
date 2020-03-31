@@ -6,17 +6,33 @@ namespace Invoice_Generator
 {
     public class Cab_InvoiceGenerator
     {
-        private const int cost_Per_Minut = 1;
-        private const double minimun_Cost_Per_Kilometer = 10;
-        private const double minimun_Fare = 5;
+        private int cost_Per_Minut;
+        private double minimun_Cost_Per_Kilometer;
+        private double minimun_Fare;
+        public Cab_InvoiceGenerator(string Types_Service)
+        {
+            if (Types_Service.Equals("Premium_Rides"))
+            {
+                this.cost_Per_Minut = 2;
+                this.minimun_Cost_Per_Kilometer = 15;
+                this.minimun_Fare = 20;
+            }
 
-        public static double CalculateFare(double kilometer, int time)
+            if (Types_Service.Equals("Normal_Rides"))
+            {
+                this.cost_Per_Minut = 1;
+                this.minimun_Cost_Per_Kilometer = 10;
+                this.minimun_Fare = 5;
+            }
+        }
+
+        public double CalculateFare(double kilometer, int time)
         {
             double Total_Cast = kilometer * minimun_Cost_Per_Kilometer + time * cost_Per_Minut;
             return Math.Max(Total_Cast, minimun_Fare);
         }
 
-        public static double CalculateFare(Ride[] rides)
+        public double CalculateFare(Ride[] rides)
         {
             double Total_fare = 0;
             foreach (Ride ride in rides)
@@ -32,7 +48,7 @@ namespace Invoice_Generator
             return rides.Length;
         }
 
-        public static double Avg_Rides(Ride[] rides)
+        public double Avg_Rides(Ride[] rides)
         {
             int length = rides.Length;
             double Total_fare = CalculateFare(rides);
@@ -40,7 +56,7 @@ namespace Invoice_Generator
             return Average;
         }
 
-        public static double GetInvoiceSummary(Custmor User_Id)
+        public double GetInvoiceSummary(Custmor User_Id)
         {
             double Total_fare = 0;
             foreach (KeyValuePair<Custmor, List<Ride>> keyvalues in RideRepository.RideDictionary)
