@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "2aqciNtLCz05v8ElQ1K2CquTMFmPeSGS5bb18Ww/0FTnig4PoyR6pK/3rXhUaG7/SDRETNyklupG9EZ4F+F4IA==",
+  "dgSpecHash": "Fx460gxBL6vaeLa4XHJ0UUreTRG222cFhDw5s6IhbaIhu4lMRirSGUzacnMHrT/Am2gGqIUINYq31MN6CUcBsA==",
   "success": true,
   "projectFilePath": "E:\\BridgeLbz_Projects\\Invoice_Generator\\Invoice_Generator\\Invoice_Generator.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\hp pc\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\hp pc\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\hp pc\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\hp pc\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
   "logs": []
 }

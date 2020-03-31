@@ -867,6 +867,9 @@
         }
       },
       "Invoice_Generator/1.0.0": {
+        "dependencies": {
+          "System.Collections": "4.3.0"
+        },
         "runtime": {
           "Invoice_Generator.dll": {}
         }

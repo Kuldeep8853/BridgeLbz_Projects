@@ -1229,6 +1229,9 @@
       "Invoice_Generator/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "System.Collections": "4.3.0"
+        },
         "compile": {
           "bin/placeholder/Invoice_Generator.dll": {}
         },
