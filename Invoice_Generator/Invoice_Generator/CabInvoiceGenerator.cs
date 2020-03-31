@@ -18,13 +18,26 @@ namespace Invoice_Generator
 
         public static double CalculateFare(Ride[] rides)
         {
-            double Total_fare=0;
-            foreach(Ride ride in rides)
+            double Total_fare = 0;
+            foreach (Ride ride in rides)
             {
-                Total_fare+=CalculateFare(ride.Distance, ride.Time);
+                Total_fare += CalculateFare(ride.Distance, ride.Time);
             }
 
             return Total_fare;
+        }
+
+        public static int Number_Rides(Ride[] rides)
+        {
+            return rides.Length;
+        }
+
+        public static double Avg_Rides(Ride[] rides)
+        {
+            int length = rides.Length;
+            double Total_fare = CalculateFare(rides);
+            double Average = Total_fare / length;
+            return Average;
         }
     }
 }
