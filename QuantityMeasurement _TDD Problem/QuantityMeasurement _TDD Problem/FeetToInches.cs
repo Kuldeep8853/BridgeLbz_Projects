@@ -6,10 +6,10 @@ namespace QuantityMeasurement__TDD_Problem
 {
     public class FeetToInches
     {
-        private readonly double Feet = 12;
+        private readonly double Inch = 12;
         public bool Equalate_Inch_And_Feet(double inch, double feet)
         {
-            if (inch == feet * this.Feet)
+            if (inch == feet * this.Inch)
             {
                 return true;
             }
