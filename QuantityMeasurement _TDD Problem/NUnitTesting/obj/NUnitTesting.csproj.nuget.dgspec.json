@@ -1,0 +1,130 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\BridgeLbz_Projects\\QuantityMeasurement _TDD Problem\\NUnitTesting\\NUnitTesting.csproj": {}
+  },
+  "projects": {
+    "E:\\BridgeLbz_Projects\\QuantityMeasurement _TDD Problem\\NUnitTesting\\NUnitTesting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\BridgeLbz_Projects\\QuantityMeasurement _TDD Problem\\NUnitTesting\\NUnitTesting.csproj",
+        "projectName": "NUnitTesting",
+        "projectPath": "E:\\BridgeLbz_Projects\\QuantityMeasurement _TDD Problem\\NUnitTesting\\NUnitTesting.csproj",
+        "packagesPath": "C:\\Users\\hp pc\\.nuget\\packages\\",
+        "outputPath": "E:\\BridgeLbz_Projects\\QuantityMeasurement _TDD Problem\\NUnitTesting\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hp pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\BridgeLbz_Projects\\QuantityMeasurement _TDD Problem\\QuantityMeasurement _TDD Problem\\QuantityMeasurement _TDD Problem.csproj": {
+                "projectPath": "E:\\BridgeLbz_Projects\\QuantityMeasurement _TDD Problem\\QuantityMeasurement _TDD Problem\\QuantityMeasurement _TDD Problem.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.4.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.15.1, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\BridgeLbz_Projects\\QuantityMeasurement _TDD Problem\\QuantityMeasurement _TDD Problem\\QuantityMeasurement _TDD Problem.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\BridgeLbz_Projects\\QuantityMeasurement _TDD Problem\\QuantityMeasurement _TDD Problem\\QuantityMeasurement _TDD Problem.csproj",
+        "projectName": "QuantityMeasurement _TDD Problem",
+        "projectPath": "E:\\BridgeLbz_Projects\\QuantityMeasurement _TDD Problem\\QuantityMeasurement _TDD Problem\\QuantityMeasurement _TDD Problem.csproj",
+        "packagesPath": "C:\\Users\\hp pc\\.nuget\\packages\\",
+        "outputPath": "E:\\BridgeLbz_Projects\\QuantityMeasurement _TDD Problem\\QuantityMeasurement _TDD Problem\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hp pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

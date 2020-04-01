@@ -1,0 +1,13 @@
+E:\BridgeLbz_Projects\QuantityMeasurement _TDD Problem\QuantityMeasurement _TDD Problem\bin\Debug\netcoreapp3.1\QuantityMeasurement _TDD Problem.exe
+E:\BridgeLbz_Projects\QuantityMeasurement _TDD Problem\QuantityMeasurement _TDD Problem\bin\Debug\netcoreapp3.1\QuantityMeasurement _TDD Problem.deps.json
+E:\BridgeLbz_Projects\QuantityMeasurement _TDD Problem\QuantityMeasurement _TDD Problem\bin\Debug\netcoreapp3.1\QuantityMeasurement _TDD Problem.runtimeconfig.json
+E:\BridgeLbz_Projects\QuantityMeasurement _TDD Problem\QuantityMeasurement _TDD Problem\bin\Debug\netcoreapp3.1\QuantityMeasurement _TDD Problem.runtimeconfig.dev.json
+E:\BridgeLbz_Projects\QuantityMeasurement _TDD Problem\QuantityMeasurement _TDD Problem\bin\Debug\netcoreapp3.1\QuantityMeasurement _TDD Problem.dll
+E:\BridgeLbz_Projects\QuantityMeasurement _TDD Problem\QuantityMeasurement _TDD Problem\bin\Debug\netcoreapp3.1\QuantityMeasurement _TDD Problem.pdb
+E:\BridgeLbz_Projects\QuantityMeasurement _TDD Problem\QuantityMeasurement _TDD Problem\obj\Debug\netcoreapp3.1\QuantityMeasurement _TDD Problem.csprojAssemblyReference.cache
+E:\BridgeLbz_Projects\QuantityMeasurement _TDD Problem\QuantityMeasurement _TDD Problem\obj\Debug\netcoreapp3.1\QuantityMeasurement _TDD Problem.csproj.CoreCompileInputs.cache
+E:\BridgeLbz_Projects\QuantityMeasurement _TDD Problem\QuantityMeasurement _TDD Problem\obj\Debug\netcoreapp3.1\QuantityMeasurement _TDD Problem.AssemblyInfoInputs.cache
+E:\BridgeLbz_Projects\QuantityMeasurement _TDD Problem\QuantityMeasurement _TDD Problem\obj\Debug\netcoreapp3.1\QuantityMeasurement _TDD Problem.AssemblyInfo.cs
+E:\BridgeLbz_Projects\QuantityMeasurement _TDD Problem\QuantityMeasurement _TDD Problem\obj\Debug\netcoreapp3.1\QuantityMeasurement _TDD Problem.dll
+E:\BridgeLbz_Projects\QuantityMeasurement _TDD Problem\QuantityMeasurement _TDD Problem\obj\Debug\netcoreapp3.1\QuantityMeasurement _TDD Problem.pdb
+E:\BridgeLbz_Projects\QuantityMeasurement _TDD Problem\QuantityMeasurement _TDD Problem\obj\Debug\netcoreapp3.1\QuantityMeasurement _TDD Problem.genruntimeconfig.cache
