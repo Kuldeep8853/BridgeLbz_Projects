@@ -6,7 +6,8 @@ namespace QuantityMeasurement__TDD_Problem
 {
     public class Inches
     {
-        double Inch;
+        public double Inch { get; set; }
+
         public Inches(double inch)
         {
             this.Inch = inch;

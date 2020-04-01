@@ -6,7 +6,7 @@ namespace QuantityMeasurement__TDD_Problem
 {
     public class Feet
     {
-        double feet;
+        public double feet { get; set; }
         public Feet(double feet)
         {
             this.feet = feet;
