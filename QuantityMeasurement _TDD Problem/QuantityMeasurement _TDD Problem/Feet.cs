@@ -6,10 +6,17 @@ namespace QuantityMeasurement__TDD_Problem
 {
     public class Feet
     {
-        int feet;
-        public Feet(int feet)
+        double feet;
+        public Feet(double feet)
         {
             this.feet = feet;
+        }
+
+        public bool CheckFeetValue(double feet)
+        {
+            if (this.feet == feet)
+                return true;
+            return false;
         }
 
         public override bool Equals(Object Obj)
@@ -20,13 +27,6 @@ namespace QuantityMeasurement__TDD_Problem
             }
 
             return true;
-        }
-
-        public bool CheckFeetValue(int feet)
-        {
-            if (this.feet == feet)
-                return true;
-            return false;
         }
     }
 }
